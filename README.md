@@ -15,3 +15,5 @@ word 4 - on page text - high level: 3
 <br>
 word 5 - in image - high level: 5
 <br>
+## Sequel
+https://github.com/Katsugachi/5-Different-Words---Part-2
